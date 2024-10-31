@@ -12,9 +12,7 @@
   </a>
 </div>
 
-  ## Hi there 👋
-
-  ---
+---
 
   ### :hammer_and_wrench: Languages <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="С" alt="С" width="40" height="40"/>&nbsp;
